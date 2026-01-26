@@ -5,7 +5,7 @@
     "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/main/bin/sender_v1.0.0.bin"
   },
   "display": {
-    "version": "1.0.0",
+    "version": "v1.0.0",
     "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/main/bin/display_v1.0.0.bin"
   }
 }
