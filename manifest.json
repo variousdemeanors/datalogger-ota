@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "release_date": "2026-01-30",
-  "firmwares": {
-    "display": {
-      "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/main/bin/display_v1.0.0.bin",
-      "version": "1.0.0",
-      "sha256": "c7f7c99534964e3febc2328982920c9d526961a76e73a1b9dcbd683c68bae2bc"
-    }
+  "sender": {
+    "version": "v1.0.0",
+    "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/main/bin/sender_v1.0.0.bin"
+  },
+  "display": {
+    "version": "v1.0.0",
+    "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/main/bin/display_v1.0.0.bin"
   }
 }
