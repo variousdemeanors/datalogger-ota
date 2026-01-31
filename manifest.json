@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "sender": {
-    "version": "v1.0.0",
-    "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/main/bin/sender_v1.0.0.bin"
+    "version": "v1.0.1",
+    "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/main/bin/sender_v1.0.1.bin"
   },
   "display": {
-    "version": "v1.0.0",
-    "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/main/bin/display_v1.0.0.bin"
+    "version": "v1.0.1",
+    "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/main/bin/display_v1.0.1.bin"
   }
 }
