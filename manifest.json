@@ -4,6 +4,10 @@
     "version": "v1.0.1",
     "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/master/bin/sender_v1.0.1.bin"
   },
+  "sender_c6": {
+    "version": "v1.0.1",
+    "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/master/bin/sender_c6_v1.0.1.bin"
+  },
   "sender_s3": {
     "version": "v1.0.2",
     "url": "https://raw.githubusercontent.com/variousdemeanors/datalogger-ota/master/bin/sender_s3_v1.0.2_verify.bin"
