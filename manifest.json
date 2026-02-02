@@ -13,7 +13,7 @@
     "url": "http://198.211.102.244/datalogger-ota/bin/sender_s3_v1.0.2_verify.bin"
   },
   "display": {
-    "version": "v1.0.1",
-    "url": "http://198.211.102.244/datalogger-ota/bin/display_v1.0.1.bin"
+    "version": "v1.0.2",
+    "url": "http://198.211.102.244/datalogger-ota/bin/display_v1.0.2_test.bin"
   }
 }
